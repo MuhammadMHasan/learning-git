@@ -3,3 +3,4 @@ qatar
 saudi arabia
 egypt
 syria
+bahrain
