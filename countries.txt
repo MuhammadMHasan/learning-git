@@ -1,4 +1,4 @@
-countries and more countries
+countries and more countries and 2 more countries
 
 palestine
 qatar
@@ -8,3 +8,5 @@ syria
 bahrain
 yemen
 afghanistan
+lebanon
+jordan
